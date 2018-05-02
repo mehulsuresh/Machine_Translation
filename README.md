@@ -8,5 +8,5 @@ This task is performed using a  encoder-decoder LSTM model. In this architecture
 ### Dataset : 
 The dataset was selected from the Manythings.org website that created a database of translations ( from the Tatoeba Project ) to be used with the ANKI flash card software
 
-[Source Website](http://www.manythings.org/anki/)
-(http://www.manythings.org/anki/spa-eng.zip "Click to Dwonload Dataset" )[Link to Dataset]
+[Source Website](http://www.manythings.org/anki/)  
+[Link to Dataset](http://www.manythings.org/anki/spa-eng.zip "Click to Download Dataset" )
